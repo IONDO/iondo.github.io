@@ -1,0 +1,2 @@
+The aim of this blog is to document my progress as a developer 
+and share the knowledge I acquire in the process.
