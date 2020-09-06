@@ -5,7 +5,7 @@ date:   2020-09-06 12:23:31 +0200
 categories: jekyll update
 ---
 
-Writing my first post using GitHub static pages and Jekyll accomplish! &#9989;
+Writing my first post using GitHub static pages and Jekyll accomplished! &#9989;
 
 In case you are also interested in doing the same here are the resources I have used:
 
