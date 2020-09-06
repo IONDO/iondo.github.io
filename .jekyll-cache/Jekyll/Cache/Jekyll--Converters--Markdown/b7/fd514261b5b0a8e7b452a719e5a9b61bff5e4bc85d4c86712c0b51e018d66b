@@ -1,0 +1,23 @@
+I"›<p>Writing my first post using GitHub static pages and Jekyll accomplish! âœ…</p>
+
+<p>In case you are also interested in doing the same here are the resources I have used:</p>
+
+<ol>
+  <li>Installing <a href="https://jekyllrb.com/docs/installation/macos/">Jekyll</a> .</li>
+</ol>
+
+<p>This tutorial assumes you are using a <em>bash</em> shell. 
+If your shell is <em>zsh</em> instead, use the command below to enable Jekyll commands in your terminal:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>echo 'export PATH="$HOME/.gem/ruby/2.6.0/bin:$PATH"' &gt;&gt; ~/.zshrc
+</code></pre></div></div>
+
+<ol>
+  <li>Instructions on how to <a href="https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll">create/use</a> 
+GitHub pages with Jekyll.</li>
+</ol>
+
+<p>That is all for the first post.</p>
+
+<p>Keep on not not coding!</p>
+:ET
